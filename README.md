@@ -10,9 +10,9 @@ A simple script to scrape an AI summarizer tool to summarize long text.
 
 ## 💎 Sponsored By
 
-> **[Your Proxy Sponsor Name Here]**  
-> *Unlock limitless scaling with premium residential proxies built specifically for stealth automation and anti-detect workflows.*  
-> [🔗 Grab your exclusive discount here](#)
+> **[proxidize]**  
+> *Reliable Proxies for Web Data .*  
+> [🔗 Grab your exclusive discount here Use Coupon XXDBSBRWHN](https://proxidize.com/get/15149/)
 
 ---
 
