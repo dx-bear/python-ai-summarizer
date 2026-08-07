@@ -25,7 +25,7 @@ A simple script to scrape an AI summarizer tool to summarize long text.
 Clone the repository and install the required dependencies using `uv` for lightning-fast package resolution.
 
 ```bash
-git clone https://github.com/ahmed/ai-summarizer-scraper.git
+git clone https://github.com/dx-bear/python-ai-summarizer.git
 cd ai-summarizer-scraper
 
 # Create a virtual environment and install dependencies
