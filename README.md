@@ -9,10 +9,7 @@ A simple script to scrape an AI summarizer tool to summarize long text.
 ---
 
 ## 💎 Sponsored By
-
-> **[proxidize]**  
-> *Reliable Proxies for Web Data .*  
-> [🔗 Grab your exclusive discount here Use Coupon XXDBSBRWHN](https://proxidize.com/get/15149/)
+[![Proxidize](https://github.com/user-attachments/assets/f135d96c-99de-4639-91a2-6cb1693900b)](https://proxidize.com/get/15149/)
 
 ---
 
