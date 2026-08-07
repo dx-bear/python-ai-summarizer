@@ -9,7 +9,8 @@ A simple script to scrape an AI summarizer tool to summarize long text.
 ---
 
 ## 💎 Sponsored By
-[![Proxidize](https://github.com/user-attachments/assets/f135d96c-99de-4639-91a2-6cb1693900b)](https://proxidize.com/get/15149/)
+[![Proxidize]<img width="1774" height="887" alt="c587a274-35c7-48e6-86cf-0abab000c773" src="https://github.com/user-attachments/assets/a5163de0-7082-44c6-a483-9e52f66161cb" />](https://proxidize.com/get/15149/)
+
 
 ---
 
